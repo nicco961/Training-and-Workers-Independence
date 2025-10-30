@@ -11,6 +11,7 @@ keep if date>mdy(6,15,2000) & date<mdy(6,15,2002)
 set scheme cleanplots
 
 
+*event study regressions*******************
 
 
 *matching
